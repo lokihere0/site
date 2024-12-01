@@ -1,7 +1,7 @@
 <?php
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'lokihere@protonmail.com';
+  $receiving_email_address = 'x@x.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
