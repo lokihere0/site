@@ -1,16 +1,8 @@
 
 ---
-<header style="color: #333333; font-family: 'Courier', monospace; font-size: 18px; width: 100%; box-sizing: border-box; padding: 20px 0; margin: 0; background-color: #f7f7f7;">
-    <div style="text-align: center;">
-        <p style="font-weight: normal; font-size: 26px; color: #333333; letter-spacing: 2px; line-height: 1.5;">
-            <i style="font-family: 'Dancing Script', cursive; font-size: 36px; color: #2c3e50;">StealthAgent</i>
-            <br>
-            <b><span style="font-size: 16px; color: #7f8c8d; font-family: 'Roboto', sans-serif; letter-spacing: 1px; text-transform: uppercase;">An Open-Source Project</span></b>
-            <br>
-            <i>Self-Extracting EXE & DLL Protector for Covert Payloads</i>
-        </p>
-    </div>
-</header>
+**StealthAgent**  
+**An Open-Source Project**  
+**Self-Extracting EXE & DLL Protector for Covert Payloads**
 
 - ![Author](https://img.shields.io/badge/Author-Solitary-green)
 
