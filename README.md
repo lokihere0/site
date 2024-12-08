@@ -1,8 +1,9 @@
 
 ---
-**StealthAgent**  
-**An Open-Source Project**  
-**Self-Extracting EXE & DLL Protector for Covert Payloads**
+# **<i>StealthAgent</i>**:
+
+
+<i>Self-Extracting EXE & DLL Protector for Covert Payloads</i>
 
 - ![Author](https://img.shields.io/badge/Author-Solitary-green)
 
