@@ -177,11 +177,10 @@ regsvr32 C:/output/embedded.dll
 ## **System Requirements**
 
 
-- ![System Requirements](https://img.shields.io/badge/OS-Windows%207%20%2B-blue)
-- 
+![System Requirements](https://img.shields.io/badge/OS-Windows%207%20%2B-blue)
+  
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
--
 ![MinGW](https://img.shields.io/badge/MinGW-w64-green)
 
 ### **Dependencies:**
