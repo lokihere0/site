@@ -316,7 +316,5 @@ For stronger encryption, consider integrating AES-256 or RSA encryption with `py
   Solution: Verify that the EXE is properly compiled and compatible with the toolset.
 
 ---
-# StealthAgent
-*An Open-Source Project*
-
-© 2024 StealthAgent.
+© StealthAgent.
+---
