@@ -316,17 +316,7 @@ For stronger encryption, consider integrating AES-256 or RSA encryption with `py
   Solution: Verify that the EXE is properly compiled and compatible with the toolset.
 
 ---
-<footer style="color: #333333; font-family: 'Roboto', sans-serif; font-size: 16px; width: 100%; box-sizing: border-box; padding: 40px 0; margin: 0; background-color: #f4f4f4; border-top: 1px solid #e0e0e0;">
-    <div style="text-align: center;">
-        <!-- Project Name with Signature Look -->
-        <p style="font-size: 28px; font-family: 'Dancing Script', cursive; color: #2c3e50; font-weight: normal; margin: 0; letter-spacing: 1px; line-height: 1.2;">
-            StealthAgent
-        </p>
-        <p style="font-size: 16px; color: #7f8c8d; letter-spacing: 0.5px; font-weight: normal; margin-top: 10px; line-height: 1.6;">
-            An Open-Source Project
-        </p>
-        <p style="font-size: 14px; color: #95a5a6; font-weight: 300; margin-top: 15px; line-height: 1.5;">
-            &copy; 2024 StealthAgent.
-        </p>
-    </div>
-</footer>
+# StealthAgent
+*An Open-Source Project*
+
+© 2024 StealthAgent.
